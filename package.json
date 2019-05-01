@@ -7,7 +7,7 @@
   },
   "dependencies": {
     "browserify": "^10.2.6",
-    "ecstatic": "~0.8.0",
+    "ecstatic": "~4.1.2",
     "main-loop": "^3.1.0",
     "uglifyjs": "~2.4.10",
     "virtual-dom": "^2.1.1",
